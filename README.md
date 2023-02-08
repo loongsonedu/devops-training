@@ -5,7 +5,7 @@ link: <链接： >
 
 ## 实训指导手册
 ### 1 系统入门实训指导手册
-[1.introducation.md](./1.introducation.md)
+[1.introduction.md](./1.introduction.md)
 
 ### 2 文件管理实训指导手册
 [2.bash-shell.md](./2.bash-shell.md)
