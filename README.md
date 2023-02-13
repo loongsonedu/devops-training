@@ -79,4 +79,8 @@
 ### 4 FTP文件服务 实训指导手册
 [4.FTP.md](./4.FTP.md)
 
+### 5 Nginx服务 实训指导手册
+[5.Nginx.md](./5.Nginx.md)
 
+### 6 VNC服务 实训指导手册
+[6.VNC.md](./6.VNC.md)
