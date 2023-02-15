@@ -84,3 +84,17 @@
 
 ### 6 VNC服务 实训指导手册
 [6.VNC.md](./6.VNC.md)
+
+### 7 mysql 实训指导手册
+[7.mysql.md](./7.mysql.md)
+
+### 8 Docker_Basics 实训指导手册
+[8.Docker_Basics.md](./8.Docker_Basics.md)
+
+### 9 Docker 实训指导手册
+[9.docker.md](./9.docker.md)
+
+### 10 kubernetes 实训指导手册
+[10.kubernetes.md](./10.kubernetes.md)
+
+
