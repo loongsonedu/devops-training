@@ -97,4 +97,7 @@
 ### 10 kubernetes 实训指导手册
 [10.kubernetes.md](./10.kubernetes.md)
 
+### 11 Samba操作视频连接
+
+
 
