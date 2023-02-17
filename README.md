@@ -98,6 +98,5 @@
 [10.kubernetes.md](./10.kubernetes.md)
 
 ### 11 Samba操作视频连接
-
-
+link: <链接：链接：https://pan.baidu.com/s/1bkORxbVqU6LHxhYK5nJq1g 提取码：8d88>
 
