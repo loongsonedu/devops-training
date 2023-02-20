@@ -70,33 +70,42 @@
 ### 1 系统入门实训指导手册
 [1.introduction.md](./1.introduction.md)
 
-### 2 文件管理实训指导手册
-[2.bash_shell.md](./2.bash_shell.md)
-
-### 3 文本编辑器 实训指导手册
+### 2 文本编辑器 实训指导手册
 [3.vim.md](./3.vim.md)
+
+### 3 文件管理实训指导手册
+[2.bash_shell.md](./2.bash_shell.md)
 
 ### 4 FTP文件服务 实训指导手册
 [4.FTP.md](./4.FTP.md)
 
-### 5 Nginx服务 实训指导手册
+### 5 Samba文件服务 实训指导手册
+Samba操作视频百度网盘链接
+link: <链接：链接：https://pan.baidu.com/s/1bkORxbVqU6LHxhYK5nJq1g 提取码：8d88>
+
+### 6 Nginx服务 实训指导手册
 [5.Nginx.md](./5.Nginx.md)
 
-### 6 VNC服务 实训指导手册
+### 7 VNC服务 实训指导手册
 [6.VNC.md](./6.VNC.md)
 
-### 7 mysql 实训指导手册
+### 8 部署企业内部网盘服务 实训指导手册
+
+### 9 MySQL基础 实训指导手册
 [7.mysql.md](./7.mysql.md)
 
-### 8 Docker_Basics 实训指导手册
+### 10 MySQL数据库备份与还原 实训指导手册
+
+### 11 Docker_Basics 实训指导手册
 [8.Docker_Basics.md](./8.Docker_Basics.md)
 
-### 9 Docker 实训指导手册
+### 12 Docker 实训指导手册
 [9.docker.md](./9.docker.md)
 
-### 10 kubernetes 实训指导手册
+### 13 Docker高级网络运维实践 实训手册
+
+### 14 kubernetes 实训指导手册
 [10.kubernetes.md](./10.kubernetes.md)
 
-### 11 Samba操作视频百度网盘链接
-link: <链接：链接：https://pan.baidu.com/s/1bkORxbVqU6LHxhYK5nJq1g 提取码：8d88>
+### 15 Kubernetes资源管理 实训手册
 
