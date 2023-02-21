@@ -109,3 +109,6 @@ link: <链接：链接：https://pan.baidu.com/s/1bkORxbVqU6LHxhYK5nJq1g 提取�
 
 ### 15 Kubernetes资源管理 实训手册
 
+
+### 16 Hadoop安装部署 实训指导手册
+[16.Hadoop安装部署.md](./Hadoop安装部署.md)
